@@ -1,0 +1,46 @@
+Robert: 4, 5, 6, 9
+Jimmy: 1, 2, 3, 7, 8, 10
+
+Architektura x86 i x86_64
+1.Historia-bardzo krótko
+	- procesory, które by³y prze³omowe dla architektury x86 od pierwszych 16 bitowych przez 32 bitowe do 64 bitowych
+	- technologie zastosowane w procesorach, po krótce
+	-mo¿na wpleœæ s³owo czy dwa o systemach operacyjnych 32 i 64 bitowych
+2. Najwa¿niejsze cechy architektury x86 + identyfikacja procesora
+3. Oznaczenia
+4. Tryby pracy procesora ( Modes)
+	-Legacy modes
+	-Long modes
+5.Wielow¹tkowoœæ i wielozadaniowoœæ w systemie operacyjnym. 
+	- Systemy z wyw³aszczeniem i bez
+	- race condition
+	- zakleszczenia
+6.Rejestry, w skrócie
+	- ogólnego przeznaczenia w trybie 16 bitowym
+	- ogólnego przeznaczenia w trybie 32 bitowym
+	- ogólnego przeznaczneia w trybie 64 bitowym
+	-zmienno przecinkowe
+	- wektorowe
+7. Adresowanie, w tym jego tryby
+	- mo¿na pomysleæ nad przedstawieniem obliczania adresu w real i virtual mode
+8. Przedstawienie deskryptorów i ich opis w x86
+9. Ochrona dostêpu do danych
+	- poziomy ochrony
+	- zmiana poziomu ochrony
+	- przekazywanie sterowania
+10. Stronicowanie pamiêci
+	- sposób zarz¹dzania pamiêci¹
+	
+11. Ew. DMA, wyj¹tki
+Poni¿sze w kontekœcie linuxa:
+12. Monitorowanie i analiza wydajnoœci sysemu- jakoœ trzeba sprawdzaæ, czy tuning coœ zmieni³
+13. numad
+Poni¿sze raczej w ramach laborków ju¿, mozna coœ zasygnalizowaæ na wyk³adzie
+13. tuning CPU
+14. CPU scheduling
+15. interrupts tuning
+16. capacity tuning
+17. Physical Address Extension (PAE)
+
+
+	
