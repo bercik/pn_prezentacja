@@ -1,16 +1,16 @@
 Serafin :
 
-	1.Historia-bardzo krótko
-		- procesory, które by³y prze³omowe dla architektury x86 od pierwszych 16 bitowych przez 32 bitowe do 64 bitowych
-		- technologie zastosowane w procesorach, po krótce
-		-mo¿na wpleœæ s³owo czy dwa o systemach operacyjnych 32 i 64 bitowych
-	2. Najwa¿niejsze cechy architektury x86 + identyfikacja procesora
+	1.Historia-bardzo krÃ³tko
+		- procesory, ktÃ³re byÅ‚y przeÅ‚omowe dla architektury x86 od pierwszych 16 bitowych przez 32 bitowe do 64 bitowych
+		- technologie zastosowane w procesorach, po krÃ³tce
+		-moÅ¼na wpleÅ›Ä‡ sÅ‚owo czy dwa o systemach operacyjnych 32 i 64 bitowych
+	2. NajwaÅ¼niejsze cechy architektury x86 + identyfikacja procesora
 	3. Oznaczenia
 	7. Adresowanie, w tym jego tryby
-		- mo¿na pomysleæ nad przedstawieniem obliczania adresu w real i virtual mode
-	8. Przedstawienie deskryptorów i ich opis w x86
-	10. Stronicowanie pamiêci
-		- sposób zarz¹dzania pamiêci¹
+		- moÅ¼na pomysleÄ‡ nad przedstawieniem obliczania adresu w real i virtual mode
+	8. Przedstawienie deskryptorÃ³w i ich opis w x86
+	10. Stronicowanie pamiÄ™ci
+		- sposÃ³b zarzÄ…dzania pamiÄ™ciÄ…
 	17. Physical Address Extension (PAE)
 	
 Cebula:
@@ -18,21 +18,21 @@ Cebula:
 	4. Tryby pracy procesora ( Modes)
 		-Legacy modes
 		-Long modes
-	5.Wielow¹tkowoœæ i wielozadaniowoœæ w systemie operacyjnym. 
-		- Systemy z wyw³aszczeniem i bez
+	5.WielowÄ…tkowoÅ›Ä‡ i wielozadaniowoÅ›Ä‡ w systemie operacyjnym. 
+		- Systemy z wywÅ‚aszczeniem i bez
 		- race condition
 		- zakleszczenia
-	6.Rejestry, w skrócie
-		- ogólnego przeznaczenia w trybie 16 bitowym
-		- ogólnego przeznaczenia w trybie 32 bitowym
-		- ogólnego przeznaczneia w trybie 64 bitowym
+	6.Rejestry, w skrÃ³cie
+		- ogÃ³lnego przeznaczenia w trybie 16 bitowym
+		- ogÃ³lnego przeznaczenia w trybie 32 bitowym
+		- ogÃ³lnego przeznaczneia w trybie 64 bitowym
 		-zmienno przecinkowe
 		- wektorowe
-	9. Ochrona dostêpu do danych
+	9. Ochrona dostÄ™pu do danych
 		- poziomy ochrony
 		- zmiana poziomu ochrony
 		- przekazywanie sterowania
-
+	18. Cache
 
 
 	
